@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\codeo\maxiNivel2\AppArticulos\TPFinalNivel2_Rodriguez\bin\Debug\TPFinalNivel2_Rodriguez.exe.config
+C:\Users\Administrator\Desktop\codeo\maxiNivel2\AppArticulos\TPFinalNivel2_Rodriguez\bin\Debug\TPFinalNivel2_Rodriguez.exe
+C:\Users\Administrator\Desktop\codeo\maxiNivel2\AppArticulos\TPFinalNivel2_Rodriguez\bin\Debug\TPFinalNivel2_Rodriguez.pdb
+C:\Users\Administrator\Desktop\codeo\maxiNivel2\AppArticulos\TPFinalNivel2_Rodriguez\bin\Debug\dominio.dll
+C:\Users\Administrator\Desktop\codeo\maxiNivel2\AppArticulos\TPFinalNivel2_Rodriguez\bin\Debug\Negocio.dll
+C:\Users\Administrator\Desktop\codeo\maxiNivel2\AppArticulos\TPFinalNivel2_Rodriguez\bin\Debug\dominio.pdb
+C:\Users\Administrator\Desktop\codeo\maxiNivel2\AppArticulos\TPFinalNivel2_Rodriguez\bin\Debug\Negocio.pdb
+C:\Users\Administrator\Desktop\codeo\maxiNivel2\AppArticulos\TPFinalNivel2_Rodriguez\obj\Debug\TPFinalNivel2_Rodriguez.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\codeo\maxiNivel2\AppArticulos\TPFinalNivel2_Rodriguez\obj\Debug\TPFinalNivel2_Rodriguez.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\codeo\maxiNivel2\AppArticulos\TPFinalNivel2_Rodriguez\obj\Debug\TPFinalNivel2_Rodriguez.FormularioArticulos.resources
+C:\Users\Administrator\Desktop\codeo\maxiNivel2\AppArticulos\TPFinalNivel2_Rodriguez\obj\Debug\TPFinalNivel2_Rodriguez.Properties.Resources.resources
+C:\Users\Administrator\Desktop\codeo\maxiNivel2\AppArticulos\TPFinalNivel2_Rodriguez\obj\Debug\TPFinalNivel2_Rodriguez.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\codeo\maxiNivel2\AppArticulos\TPFinalNivel2_Rodriguez\obj\Debug\TPFinalNivel2_Rodriguez.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\codeo\maxiNivel2\AppArticulos\TPFinalNivel2_Rodriguez\obj\Debug\TPFinalNivel2_Rodriguez.csproj.CopyComplete
+C:\Users\Administrator\Desktop\codeo\maxiNivel2\AppArticulos\TPFinalNivel2_Rodriguez\obj\Debug\TPFinalNivel2_Rodriguez.exe
+C:\Users\Administrator\Desktop\codeo\maxiNivel2\AppArticulos\TPFinalNivel2_Rodriguez\obj\Debug\TPFinalNivel2_Rodriguez.pdb
+C:\Users\Administrator\Desktop\codeo\maxiNivel2\AppArticulos\TPFinalNivel2_Rodriguez\obj\Debug\TPFinalNivel2_Rodriguez.frmAltaArticulo.resources

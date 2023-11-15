@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\codeo\maxiNivel2\AppArticulos\Negocio\bin\Debug\Negocio.dll
+C:\Users\Administrator\Desktop\codeo\maxiNivel2\AppArticulos\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Administrator\Desktop\codeo\maxiNivel2\AppArticulos\Negocio\bin\Debug\dominio.dll
+C:\Users\Administrator\Desktop\codeo\maxiNivel2\AppArticulos\Negocio\bin\Debug\dominio.pdb
+C:\Users\Administrator\Desktop\codeo\maxiNivel2\AppArticulos\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\codeo\maxiNivel2\AppArticulos\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\codeo\maxiNivel2\AppArticulos\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Administrator\Desktop\codeo\maxiNivel2\AppArticulos\Negocio\obj\Debug\Negocio.dll
+C:\Users\Administrator\Desktop\codeo\maxiNivel2\AppArticulos\Negocio\obj\Debug\Negocio.pdb

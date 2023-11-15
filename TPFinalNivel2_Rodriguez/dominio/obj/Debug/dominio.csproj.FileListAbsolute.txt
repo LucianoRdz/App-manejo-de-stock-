@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\codeo\maxiNivel2\AppArticulos\dominio\bin\Debug\dominio.dll
+C:\Users\Administrator\Desktop\codeo\maxiNivel2\AppArticulos\dominio\bin\Debug\dominio.pdb
+C:\Users\Administrator\Desktop\codeo\maxiNivel2\AppArticulos\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\codeo\maxiNivel2\AppArticulos\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\codeo\maxiNivel2\AppArticulos\dominio\obj\Debug\dominio.dll
+C:\Users\Administrator\Desktop\codeo\maxiNivel2\AppArticulos\dominio\obj\Debug\dominio.pdb
